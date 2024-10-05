@@ -1,0 +1,1 @@
+console.log("Uso de memoria actual del proceso:", process.memoryUsage());

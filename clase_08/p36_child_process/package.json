@@ -1,0 +1,26 @@
+{
+    "name": "hands_on_lab_p42",
+    "version": "1.0.0",
+    "description": "Ejemplo de Express + Mongoose",
+    "main": "src/server.js",
+    "type": "module",
+    "scripts": {
+        "start": "node ./src/server.js --env=PROD",
+        "dev": "nodemon ./src/server.js",
+        "stop": "killall -9 node",
+        "lint": "eslint ./src --fix"
+    },
+    "keywords": [],
+    "author": "Sergio Regalado Alessi",
+    "license": "MIT",
+    "dependencies": {
+        "commander": "^12.1.0",
+        "dotenv": "^16.4.5",
+        "express": "^4.19.2",
+        "mongoose": "^8.4.1",
+        "nodemon": "^3.1.4"
+    },
+    "devDependencies": {
+        "eslint": "^8.57.0"
+    }
+}

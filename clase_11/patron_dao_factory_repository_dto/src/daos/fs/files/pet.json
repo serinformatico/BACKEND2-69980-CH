@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Mia",
+		"specie": "Tortuga",
+		"age": 7,
+		"id": "66c68ca616ac820079451d5f"
+	},
+	{
+		"id": "66c6ae8e48182d6c97d9694e",
+		"name": "undefined undefined",
+		"specie": "PERRO",
+		"age": 10
+	},
+	{
+		"id": "66c6aea22adb38e7a48adabe",
+		"name": "MOLLY CAT",
+		"specie": "GATO",
+		"age": 4
+	},
+	{
+		"id": "66c6aef12adb38e7a48adabf",
+		"name": "undefined undefined",
+		"specie": "PERRO",
+		"age": 10
+	}
+]

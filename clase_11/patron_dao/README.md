@@ -1,0 +1,3 @@
+# Patrón DAO (Data Access Object)
+
+Es un patrón de diseño utilizado para separar la lógica de acceso a datos de la lógica de negocio en una aplicación. El propósito principal de un DAO es proporcionar una abstracción sobre la forma en que los datos son persistidos y accedidos, lo que permite cambiar fácilmente la implementación subyacente de almacenamiento de datos sin afectar la lógica de negocio.
