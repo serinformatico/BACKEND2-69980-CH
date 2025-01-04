@@ -18,7 +18,7 @@ server.use(express.json());
 
 // Configuración del store de sesiones
 const storeOptions = MongoStore.create({
-    mongoUrl: "mongodb+srv://sergio:Y2aiTV3letzbtqiV@cluster0.4i0l5oa.mongodb.net/class-zero",
+    mongoUrl: "mongodb+srv://tuUsuario:tuClave@tuCluster.mongodb.net/class-zero",
     autoRemove: "native", // Eliminar automáticamente las sesiones expiradas
     // ttl: La expiración de la sesión se controla a través de cookie.maxAge.
 });
